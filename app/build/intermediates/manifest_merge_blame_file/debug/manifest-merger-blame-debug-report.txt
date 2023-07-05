@@ -77,102 +77,101 @@
 46-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:17:9-41
 47        android:supportsRtl="true"
 47-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:18:9-35
-48        android:testOnly="true"
-49        android:theme="@style/Theme.NavarroFrancisco02" >
-49-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:19:9-56
-50        <activity
-50-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:21:9-23:40
-51            android:name="com.francisco.navarrofrancisco02.MapActivity"
-51-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:22:13-40
-52            android:exported="false" />
-52-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:23:13-37
-53        <activity
-53-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:24:9-32:20
-54            android:name="com.francisco.navarrofrancisco02.SplashScreenActivity"
-54-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:25:13-49
-55            android:exported="true" >
-55-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:26:13-36
-56            <intent-filter>
-56-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:27:13-31:29
-57                <action android:name="android.intent.action.MAIN" />
-57-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:28:17-69
-57-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:28:25-66
-58
-59                <category android:name="android.intent.category.LAUNCHER" />
-59-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:30:17-77
-59-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:30:27-74
-60            </intent-filter>
-61        </activity>
-62        <activity
-62-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:33:9-35:39
-63            android:name="com.francisco.navarrofrancisco02.LoginActivity"
-63-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:34:13-42
-64            android:exported="true" />
-64-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:35:13-36
-65        <activity
-65-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:36:9-38:48
-66            android:name="com.francisco.navarrofrancisco02.MainActivity"
-66-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:37:13-41
-67            android:exported="true" />
-67-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:38:13-36
-68
-69        <meta-data
-69-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:40:9-42:54
-70            android:name="com.google.android.geo.API_KEY"
-70-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:41:13-58
-71            android:value="@string/google_api_key" />
-71-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:42:13-51
-72        <meta-data
-72-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:43:9-45:57
-73            android:name="preloaded_fonts"
-73-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:44:13-43
-74            android:resource="@array/preloaded_fonts" />
-74-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:45:13-54
-75        <!-- Needs to be explicitly declared on P+ -->
-76        <uses-library
-76-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f6c7f96bba9cb56f84d22b32c8e9f78\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
-77            android:name="org.apache.http.legacy"
-77-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f6c7f96bba9cb56f84d22b32c8e9f78\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
-78            android:required="false" />
-78-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f6c7f96bba9cb56f84d22b32c8e9f78\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
-79
-80        <activity
-80-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-81            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-81-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-82            android:exported="false"
-82-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-83            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-83-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-84
-85        <meta-data
-85-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f94800d7548630afd17398b11f1a838f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-86            android:name="com.google.android.gms.version"
-86-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f94800d7548630afd17398b11f1a838f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-87            android:value="@integer/google_play_services_version" />
-87-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f94800d7548630afd17398b11f1a838f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-88
-89        <provider
-89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-90            android:name="androidx.startup.InitializationProvider"
-90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-91            android:authorities="com.francisco.navarrofrancisco02.androidx-startup"
-91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-92            android:exported="false" >
-92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-93            <meta-data
-93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-94                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-95                android:value="androidx.startup" />
-95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-96            <meta-data
-96-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\8da142a8d2b09f891cdbdb73c1332847\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-97                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-97-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\8da142a8d2b09f891cdbdb73c1332847\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-98                android:value="androidx.startup" />
-98-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\8da142a8d2b09f891cdbdb73c1332847\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-99        </provider>
-100    </application>
-101
-102</manifest>
+48        android:theme="@style/Theme.NavarroFrancisco02" >
+48-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:19:9-56
+49        <activity
+49-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:21:9-23:40
+50            android:name="com.francisco.navarrofrancisco02.MapActivity"
+50-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:22:13-40
+51            android:exported="false" />
+51-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:23:13-37
+52        <activity
+52-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:24:9-32:20
+53            android:name="com.francisco.navarrofrancisco02.SplashScreenActivity"
+53-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:25:13-49
+54            android:exported="true" >
+54-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:26:13-36
+55            <intent-filter>
+55-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:27:13-31:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:28:17-69
+56-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:28:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:30:17-77
+58-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:30:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:33:9-35:39
+62            android:name="com.francisco.navarrofrancisco02.LoginActivity"
+62-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:34:13-42
+63            android:exported="true" />
+63-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:35:13-36
+64        <activity
+64-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:36:9-38:48
+65            android:name="com.francisco.navarrofrancisco02.MainActivity"
+65-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:37:13-41
+66            android:exported="true" />
+66-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:38:13-36
+67
+68        <meta-data
+68-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:40:9-42:54
+69            android:name="com.google.android.geo.API_KEY"
+69-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:41:13-58
+70            android:value="@string/google_api_key" />
+70-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:42:13-51
+71        <meta-data
+71-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:43:9-45:57
+72            android:name="preloaded_fonts"
+72-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:44:13-43
+73            android:resource="@array/preloaded_fonts" />
+73-->F:\ProyectosAndroid\NavarroFrancisco02\app\src\main\AndroidManifest.xml:45:13-54
+74        <!-- Needs to be explicitly declared on P+ -->
+75        <uses-library
+75-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f6c7f96bba9cb56f84d22b32c8e9f78\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+76            android:name="org.apache.http.legacy"
+76-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f6c7f96bba9cb56f84d22b32c8e9f78\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+77            android:required="false" />
+77-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f6c7f96bba9cb56f84d22b32c8e9f78\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+78
+79        <activity
+79-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+80            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+80-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+81            android:exported="false"
+81-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\e52d7885cc00c75d55b39d927283e3cf\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+83
+84        <meta-data
+84-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f94800d7548630afd17398b11f1a838f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+85            android:name="com.google.android.gms.version"
+85-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f94800d7548630afd17398b11f1a838f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+86            android:value="@integer/google_play_services_version" />
+86-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f94800d7548630afd17398b11f1a838f\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+87
+88        <provider
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+89            android:name="androidx.startup.InitializationProvider"
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+90            android:authorities="com.francisco.navarrofrancisco02.androidx-startup"
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+91            android:exported="false" >
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+92            <meta-data
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+94                android:value="androidx.startup" />
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\baf3c3b1cbab7c314009dc4dd7f96bb9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\8da142a8d2b09f891cdbdb73c1332847\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+96                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+96-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\8da142a8d2b09f891cdbdb73c1332847\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+97                android:value="androidx.startup" />
+97-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\8da142a8d2b09f891cdbdb73c1332847\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+98        </provider>
+99    </application>
+100
+101</manifest>
