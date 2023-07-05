@@ -1,0 +1,7 @@
+com.francisco.navarrofrancisco02.test.app-core-1.5.0-0 C:\Users\Panchito\.gradle\caches\transforms-3\2e62a93e34d9b3ca1ffc3a3d6462ecd9\transformed\core-1.5.0\res
+com.francisco.navarrofrancisco02.test.app-annotation-experimental-1.3.0-1 C:\Users\Panchito\.gradle\caches\transforms-3\cb733034f48f51432dd6f89198928e48\transformed\annotation-experimental-1.3.0\res
+com.francisco.navarrofrancisco02.test.app-androidTest-2 F:\ProyectosAndroid\NavarroFrancisco02\app\build\generated\res\resValues\androidTest\debug
+com.francisco.navarrofrancisco02.test.app-androidTest-3 F:\ProyectosAndroid\NavarroFrancisco02\app\build\generated\res\rs\androidTest\debug
+com.francisco.navarrofrancisco02.test.app-mergeDebugAndroidTestResources-4 F:\ProyectosAndroid\NavarroFrancisco02\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.francisco.navarrofrancisco02.test.app-mergeDebugAndroidTestResources-5 F:\ProyectosAndroid\NavarroFrancisco02\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.francisco.navarrofrancisco02.test.app-merged_res-6 F:\ProyectosAndroid\NavarroFrancisco02\app\build\intermediates\merged_res\debugAndroidTest

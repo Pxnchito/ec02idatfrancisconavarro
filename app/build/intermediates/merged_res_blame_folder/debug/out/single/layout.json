@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.francisco.navarrofrancisco02.app-mergeDebugResources-31:/layout/activity_splash_screen.xml",
+        "source": "com.francisco.navarrofrancisco02.app-main-34:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-mergeDebugResources-31:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-mergeDebugResources-31:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-main-34:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-mergeDebugResources-31:\\layout\\activity_map.xml",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\7.5\\com.francisco.navarrofrancisco02.app-main-34:\\layout\\activity_map.xml"
+    }
+]
